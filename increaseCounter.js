@@ -13,3 +13,4 @@ let counter = createCounter()
 
 console.log(counter())
 console.log(counter())
+console.log(counter())
